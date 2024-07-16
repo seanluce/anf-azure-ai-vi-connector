@@ -11,7 +11,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-The script needs read access to your Azure subscription and access to your Azure NetApp Files SMB shares. It is easiest to run the script from an Azure virtual machine with a managed identity and joined to the same domain as your Azure NetApp Files volumes.
+The script needs read access to your Azure subscription and access to your Azure NetApp Files SMB shares. It is recommended to run the script from an Azure virtual machine with a managed identity and joined to the same domain as your Azure NetApp Files volumes.
+
+## Demo
+
+Check out this video for a quick overview and demonstration: [Azure NetApp Files - Azure AI Video Indexer Connector](https://youtu.be/D_mCFWtXb3I?si=oULObl0gR2DJrTi7)
 
 ## Built With
 
